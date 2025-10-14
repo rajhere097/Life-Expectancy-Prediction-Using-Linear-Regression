@@ -22,3 +22,6 @@ Predicted life expectancy values.
 Evaluated the model using R², Adjusted R², MSE, RMSE, and MAE.
 
 Visualized the results using scatter plots of actual vs predicted values.
+
+
+Insights : The scatter plot shows that the predicted values are closely aligned with the actual life expectancy values. With an R² score of 0.85, the model explains around 85% of the variance, showing a strong predictive performance.
